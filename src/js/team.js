@@ -20,4 +20,4 @@ export default class Team {
   toArray() {
     return Array.from(this.members);
   }
-};
+}
