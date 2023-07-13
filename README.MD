@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/517mnusi28fahkax?svg=true)](https://ci.appveyor.com/project/Artem-Kukin/ajs-container-set)
